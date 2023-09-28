@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+  padding: 20px;
+  
+  background-repeat:no-repeat;
+}
+
+h2 {
+  color: #150401;
+  font-size: 40px;
+  font-family: 'Times New Roman', Times, serif;
+  border: 2px smoky black;
+}
+
+input {
+  padding: 10px;
+  margin: 5px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  font-size: 16px;
+  
+}
+
+button {
+  background-color: #c813e8a7;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #2678a9;
+}
+.india{
+  background-image: url(india.png);
+  width: 335px;
+  height: 150px;
+  margin: top 0px; ;
+}
